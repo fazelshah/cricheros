@@ -6,7 +6,7 @@ import re
 import time
 import os
 
-AUTH_COOKIE = "68b22020-7181-11f1-af5d-b90e0dd3fd3c"
+AUTH_COOKIE = "e00926a0-7375-11f1-92f0-5962f17b9887"
 
 API_HEADERS = {
     "Authorization": AUTH_COOKIE,
